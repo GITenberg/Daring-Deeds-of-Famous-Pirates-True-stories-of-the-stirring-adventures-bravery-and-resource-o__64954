@@ -1,0 +1,38 @@
+_repo: Daring-Deeds-of-Famous-Pirates-True-stories-of-the-stirring-adventures-bravery-and-resource-o__64954
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chatterton, E. Keble (Edward Keble)
+    alias: Chatterton, Edward Keble
+    birthdate: 1878
+    deathdate: 1944
+    gutenberg_agent_id: '7457'
+    url: http://www.gutenberg.org/2009/agents/7457
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Keble_Chatterton
+description: ''
+gutenberg_issued: '2021-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64954'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Pirates'
+- GITenberg
+tableOfContents: The earliest pirates -- The North Sea pirates -- Piracy in the early
+  Tudor times -- The corsairs of the south -- The wasps at work -- Galleys and gallantry
+  -- Piracy in Elizabethan times -- Elizabethan seamen and Turkish pirates -- The
+  Stuart navy goes forth against the "pyrats" -- The good ship exchange of Bristol
+  -- A wonderful achievement -- The great Sir Henry Morgan -- "Black Beard" Teach
+  -- The story of Captain Kidd -- The exploits of Captain Avery -- A "gentleman" of
+  fortune [Bartholomew Roberts] -- Paul Jones, pirate and privateer -- A notorious
+  American pirate [Charles Gibbs] -- The last of the Algerine corsairs -- Pirates
+  of the Persian Gulf -- The story of Aaron Smith.
+title: 'Daring Deeds of Famous Pirates
+
+  True stories of the stirring adventures, bravery and resource of pirates, filibusters
+  & buccaneers'
+url: http://www.gutenberg.org/ebooks/64954
